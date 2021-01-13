@@ -1,0 +1,26 @@
+{
+  "name": "optional2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "faker": "^5.1.0",
+    "graphiql": "^1.3.2",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.1"
+  }
+}
